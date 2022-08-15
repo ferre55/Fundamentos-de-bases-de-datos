@@ -7,5 +7,5 @@ Fundamentos de bases de datos
 
 
 💜👩‍🏫🏫 **Control Escolars**
-![alt text](https://github.com/ferre55/Fundamentos-de-bases-de-datos/blob/main/escolaar.drawio.png)
+https://github.com/ferre55/Fundamentos-de-bases-de-datos/blob/main/escolaar1.drawio.png
 
